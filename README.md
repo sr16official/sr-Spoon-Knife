@@ -1,4 +1,4 @@
-###  My version is more cool than yours Well hello there!
+### My version is more cool than yours Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
